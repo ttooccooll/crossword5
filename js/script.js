@@ -117,7 +117,7 @@
 					starty: 3
 				},
 				{
-					clue: "Before I got my wires crossed, this answer was originally supposed to be MLB, but I image that hunderds of people with this work for them.",
+					clue: "Before I got my wires crossed, this answer was originally supposed to be MLB, but I image that hundreds of people with this work for them.",
 					answer: "mba",
 					position: 9,
 					orientation: "down",
