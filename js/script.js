@@ -54,7 +54,7 @@
 				},
 				{
 					clue: "This desperate play is named after a prayer.",
-					answer: "nba",
+					answer: "hailmary",
 					position: 13,
 					orientation: "across",
 					startx: 5,
