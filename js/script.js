@@ -101,7 +101,7 @@
 					starty: 1
 				},
 				{
-					clue: "Named for one important tool in a pitcher's bag of tricks, I hope some of these questions are this for you!",
+					clue: "Named for one important tool in a pitcher's bag of tricks, I hope that at least one of these questions are a _________ for you!",
 					answer: "curveball",
 					position: 4,
 					orientation: "down",
