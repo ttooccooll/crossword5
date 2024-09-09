@@ -21,7 +21,10 @@
 body {
           display: flex;
           flex-direction: column;
-          background: green;
+          background: green url("./fturf.jpeg");
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-position: center;
 }
 
   table {
@@ -85,7 +88,7 @@ body {
   .active,
   ul.clues-active {
     font-size: 1.7em;
-    color: #999;
+    color: #d7d7d7;
   }
   ul.clue-done {
     color: rgb(46 153 209);
