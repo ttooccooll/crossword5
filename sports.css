@@ -202,6 +202,7 @@ body {
     border-radius: 5px;
     box-shadow: inset 0px -10px 25px #757373, 3px 5px 5px #2f2f2f;
     text-align: center;
+    display: inline-block;
   }
   
   .links {
